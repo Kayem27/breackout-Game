@@ -1,0 +1,31 @@
+html {
+    font-family: monospace;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+h1 {
+    text-align: center;
+}
+
+.emoji {
+  font-family: apple color emoji, segoe ui emoji, noto color emoji,
+    android emoji, emojisymbols, emojione mozilla, twemoji mozilla,
+    segoe ui symbol;
+}
+
+#breakout-canvas {
+    background-color: silver;
+}
+
+.breakout-informations {
+    font-family: monospace;
+    font-size: 1.2em;
+}
