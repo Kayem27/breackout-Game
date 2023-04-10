@@ -33,5 +33,3 @@ let frame;
 if (confirm('Êtes-vous prêt ?')) {
     frame = requestAnimationFrame(run); // 1er call à la function 'run'
 }
-
-// let 
